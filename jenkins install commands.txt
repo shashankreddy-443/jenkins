@@ -9,3 +9,44 @@ systemctl start jenkins
 systemctl status jenkins
 
 
+Icon
+Comprehensive Curriculum
+Our curriculum is designed to align with the latest trends and objectives.
+
+Icon
+Expert Trainers
+Learn from industry experts with real-world experience and mentorship skills.
+
+Icon
+Online Classes
+Access tech education anytime, anywhere with our live online sessions.
+
+Icon
+Hands-On Projects
+Work on real-world projects to apply your skills and build a solid portfolio.
+
+Icon
+Performance Tracking
+Track your progress through assessments and targeted feedback.
+
+Icon
+Placement Assistance
+We provide support to help you land interviews and jobs at top firms.
+
+Explore Courses
+Our Current Live Courses
+Course Image
+Generative AI
+📅 6th Apr 2026 | ⏰ 8:00 PM
+₹49,000/-   ₹5,999/-
+Know More
+Course Image
+Ai Powered Digital Marketing
+📅 4th May 2026 | ⏰ 7:00 AM
+₹49,000/-   ₹6,999/-
+Know More
+Course Image
+Azure Data Engineering
+📅 23rd Apr | ⏰ 7:30 PM
+₹89,000/-   ₹15,999/-
+Know More
